@@ -65,13 +65,13 @@ These are **AI commands, not CLI tools** — you use natural language:
 
 ## 📚 What's included
 
-214+ principles across 13 categories, actively growing:
+228+ principles across 16 namespaces, actively growing:
 
-**SOLID · Gang of Four · GRASP · DRY · KISS · YAGNI · Clean Architecture · DDD · CQRS · Event Sourcing · 12-Factor · OWASP Top 10 · Concurrency · Performance · Observability · API Design · Testing Strategy · and more**
+**SOLID · Gang of Four · GRASP · DRY · KISS · YAGNI · Clean Architecture · DDD · CQRS · Event Sourcing · 12-Factor · OWASP Top 10 · Functional Programming · Database Design · Security Architecture · Package Design · Concurrency · Performance · Observability · API Design · Testing Strategy · and more**
 
-Every principle cites a verifiable source — book with ISBN, RFC, or paper with DOI. Shipped groups (`@spring-boot`, `@react`, `@microservices`, `@security-focused`, …) bundle related principles for common stacks. Many principles include **code examples and diagrams** — not just a definition, but a demonstration of the principle in practice.
+Every principle cites a verifiable source — book with ISBN, RFC, or paper with DOI. 45 shipped groups (`@spring-boot`, `@react`, `@microservices`, `@security-focused`, `@fp`, `@db`, `@pkg`, `@java`, `@kotlin`, `@haskell`, `@rust`, …) bundle related principles for common stacks and languages. Many principles include **code examples and diagrams** — not just a definition, but a demonstration of the principle in practice.
 
-New namespaces in progress: functional programming, continuous delivery, database design, hexagonal architecture, threat modelling, and more. See [TODO.md](https://github.com/code-principles/.principles/blob/main/TODO.md).
+New namespaces in progress: continuous delivery, hexagonal architecture, and more. See [TODO.md](https://github.com/code-principles/.principles/blob/main/TODO.md).
 
 ---
 
@@ -83,5 +83,4 @@ New namespaces in progress: functional programming, continuous delivery, databas
 
 ## Status
 
-Proof of concept — errors exist, gaps exist, groupings are opinionated. See the [Disclaimer](https://github.com/code-principles/.principles/blob/main/DISCLAIMER.md). Contributions are welcome.
-
+v0.2.0 — proof of concept. Errors exist, gaps exist, groupings are opinionated. See the [Disclaimer](https://github.com/code-principles/.principles/blob/main/DISCLAIMER.md). Contributions are welcome.
